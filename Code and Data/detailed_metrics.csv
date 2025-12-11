@@ -1,0 +1,4 @@
+Category,Recall,Precision,F1-Score,True Positives,False Positives,False Negatives,True Negatives,Support
+Significant,94.6%,91.0%,0.928,122,12,7,2016,129
+Economically Significant,64.9%,72.5%,0.685,37,14,20,2086,57
+Major,77.1%,62.8%,0.692,54,32,16,2055,70
